@@ -10,4 +10,6 @@ Intro to Components
 Passing styling as props
 
 Ouput:
-![image](https://user-images.githubusercontent.com/81528176/233620955-5ddb4586-4225-4ff3-87fb-3ba4a9bcdd60.png)
+![image](https://user-images.githubusercontent.com/81528176/233621056-0ed11a65-343d-471d-bbed-0ac3bda71e4d.png)
+
+
