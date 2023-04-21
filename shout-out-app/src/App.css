@@ -1,0 +1,51 @@
+*{
+  padding:0%;
+  margin: 0%;
+  box-sizing: border-box;
+  color: aliceblue;
+  font-family: "Century Gothic", CenturyGothic;
+  background-color: #0D0C12;
+  font-size: calc(10px+2vmin);
+}
+
+.overall{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.imagecss{
+  margin-top: 1rem;
+  margin-bottom: 5rem;
+  animation: App-logo-spin infinite 10s linear;
+  margin-left: 40%;
+  margin-right: 50%;
+  }
+
+.day{
+  color: #8a83c6;
+  font-weight: 400;
+  font-size: 3rem;
+  text-align: center;
+  letter-spacing: 2px;
+  margin-bottom: 1rem;
+}
+
+.subday{
+  color: white;
+  text-align:center;
+  font-size: 1rem;
+  letter-spacing: 2.5px;
+
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
